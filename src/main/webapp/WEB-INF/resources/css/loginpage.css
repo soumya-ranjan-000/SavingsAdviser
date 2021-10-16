@@ -1,0 +1,21 @@
+ *{
+            padding: 0;
+            margin: 0;
+        }
+#login-form-container{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 2rem 5rem;
+   flex-direction: column;
+}
+#login-frm{
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+#login{
+   text-transform: uppercase;
+}
